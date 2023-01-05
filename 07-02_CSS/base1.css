@@ -1,0 +1,37 @@
+.card1 {
+    background-image: url(http://142.93.172.35:8080/static/media/cards.7e0a18f0.png);
+    background-repeat: no-repeat;
+    width: 150px;
+    height: 200px;
+    background-position: 5px -1400px;
+}
+
+.card2 {
+    background-image: url(http://142.93.172.35:8080/static/media/cards.7e0a18f0.png);
+    background-repeat: no-repeat;
+    width: 150px;
+    height: 200px;
+    background-position: 5px -1800px;
+}
+.card3 {
+    background-image: url(http://142.93.172.35:8080/static/media/cards.7e0a18f0.png);
+    background-repeat: no-repeat;
+    width: 150px;
+    height: 200px;
+    background-position: -285px -1400px;
+}
+
+.card4 {
+    background-image: url(http://142.93.172.35:8080/static/media/cards.7e0a18f0.png);
+    background-repeat: no-repeat;
+    width: 150px;
+    height: 200px;
+    background-position: -140px -2200px;
+}
+.card5 {
+    background-image: url(http://142.93.172.35:8080/static/media/cards.7e0a18f0.png);
+    background-repeat: no-repeat;
+    width: 150px;
+    height: 200px;
+    background-position: 0px -2390px;
+}
